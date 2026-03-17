@@ -12,7 +12,7 @@ The final deliverable includes:
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboards/dashboard screenshot.png)
+![Dashboard Preview](dashboards/dashboardscreenshot.png)
 
 ## Business Problem
 
