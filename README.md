@@ -34,6 +34,19 @@ The analysis was built from synthetic datasets representing:
 - **Events**: donor attendance history
 - **Relationships**: donor network and relationship strength indicators
 
+## Data Access
+
+The raw dataset files used for this project are not included in this repository because of file size limitations.
+
+This project was built using a synthetic donor and fundraising analytics dataset along with derived processed files created during the analysis workflow.
+
+Repository contents include:
+- SQL queries
+- Jupyter notebook workflow
+- executive summary
+- Power BI dashboard file
+- dashboard screenshot
+
 ## Tools Used
 
 - **Python**
